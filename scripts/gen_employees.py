@@ -100,7 +100,7 @@ for r, reason in zip(random.sample(candidates, N_FIRED), random.sample(REASONS, 
 
 COLS = ["tab_number","last_name","first_name","patronymic","gender","birth_date","department","position",
         "hire_date","status","termination_date","termination_reason","passport","pinfl","phone","email","salary_uzs"]
-with open("data/employees_fake.csv", "w", newline="", encoding="utf-8-sig") as f:
+with open("data/test-employees.csv", "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, fieldnames=COLS)
     w.writeheader()
     for r in rows:
