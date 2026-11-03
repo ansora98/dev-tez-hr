@@ -1,0 +1,81 @@
+﻿tab_number,last_name,first_name,patronymic,gender,birth_date,department,position,hire_date,status,termination_date,termination_reason,passport,pinfl,phone,email,salary_uzs
+TN-00001,Ismoilov,Elyor,Erkin o'g'li,М,1998-10-31,IT,Backend-разработчик,2019-02-20,Работает,,,AC2944749,33110982816057,+998 94 780 70 30,elyor.ismoilov@example.uz,27500000
+TN-00002,Fayzullayev,Islom,Alisher o'g'li,М,1979-02-02,Клиентская поддержка,Руководитель поддержки,2019-04-03,Работает,,,AD7097493,30202792634530,+998 90 559 70 54,islom.fayzullayev@example.uz,6200000
+TN-00003,Tursunov,Akmal,Murod o'g'li,М,1996-02-09,Финансы,Финансовый аналитик,2019-09-04,Работает,,,AB6695356,30902962749740,+998 88 948 45 53,akmal.tursunov@example.uz,13100000
+TN-00004,Tursunova,Sevara,Farhod qizi,Ж,1995-12-31,IT,Тимлид,2020-01-22,Работает,,,AC1246804,43112952659636,+998 88 897 41 70,sevara.tursunova@example.uz,34200000
+TN-00005,Usmonova,Dilnoza,Ulmas qizi,Ж,1980-06-13,Финансы,Казначей,2020-02-07,Работает,,,AC7446428,41306802638672,+998 95 549 66 48,dilnoza.usmonova@example.uz,14400000
+TN-00006,Normatov,Farrux,Sobir o'g'li,М,1998-10-15,HR,HR-менеджер,2020-02-15,Работает,,,AC0624620,31510982636057,+998 91 640 67 82,farrux.normatov@example.uz,8300000
+TN-00007,Aliyev,Mirjalol,Rustam o'g'li,М,1978-01-11,IT,QA-инженер,2020-06-12,Работает,,,AC2476877,31101782769630,+998 90 554 87 47,mirjalol.aliyev@example.uz,15800000
+TN-00008,Nazarov,Sanjar,Ravshan o'g'li,М,1975-12-02,Клиентская поддержка,Старший оператор,2020-06-20,Работает,,,AB8671348,30212752651659,+998 99 379 64 78,sanjar.nazarov@example.uz,10300000
+TN-00009,Aliyev,Farrux,Alisher o'g'li,М,1979-10-27,Продажи,Менеджер по продажам,2020-08-20,Работает,,,AB6022931,32710792813878,+998 88 434 42 97,farrux.aliyev@example.uz,7000000
+TN-00010,Jo'rayev,Bobur,Odil o'g'li,М,1999-02-08,Клиентская поддержка,Старший оператор,2020-12-08,Работает,,,AA3013575,30802992735532,+998 93 129 24 75,bobur.jorayev@example.uz,5000000
+TN-00011,Jo'rayeva,Madina,Zafar qizi,Ж,1983-12-12,Финансы,Финансовый аналитик,2020-12-08,Работает,,,AB8297302,41212832673827,+998 88 991 64 64,madina.jorayeva@example.uz,19700000
+TN-00012,Ergashev,Rustam,Farhod o'g'li,М,1990-06-08,HR,HR бизнес-партнёр,2020-12-24,Работает,,,AD8348383,30806902762951,+998 93 433 76 71,rustam.ergashev@example.uz,12600000
+TN-00013,Jo'rayev,Farrux,Ulmas o'g'li,М,1992-02-13,Финансы,Главный бухгалтер,2021-05-29,Работает,,,AD9505464,31302922654423,+998 97 955 25 50,farrux.jorayev@example.uz,14800000
+TN-00014,Haydarova,Gulchehra,Botir qizi,Ж,1979-03-30,Финансы,Главный бухгалтер,2021-06-04,Уволен,2021-10-19,Истечение срока трудового договора,AA1562287,43003792816625,+998 99 658 95 33,gulchehra.haydarova@example.uz,8600000
+TN-00015,Ismoilov,Islom,Zafar o'g'li,М,2003-09-21,HR,Рекрутер,2021-11-03,Работает,,,AB7123790,52109032643597,+998 90 977 28 87,islom.ismoilov@example.uz,14700000
+TN-00016,Toshmatova,Sevara,Akmal qizi,Ж,1993-06-19,Маркетинг,Маркетолог,2021-11-26,Уволен,2022-01-15,Непрохождение испытательного срока,AA0961529,41906932642415,+998 95 225 22 97,sevara.toshmatova@example.uz,15900000
+TN-00017,Sultonova,Feruza,Baxtiyor qizi,Ж,1996-02-23,IT,Backend-разработчик,2021-12-06,Работает,,,AB9184749,42302962685083,+998 88 460 39 78,feruza.sultonova@example.uz,22000000
+TN-00018,Saidova,Gulnora,Farhod qizi,Ж,1998-07-16,HR,HR-менеджер,2022-01-04,Работает,,,AA4284062,41607982669600,+998 94 823 90 81,gulnora.saidova@example.uz,8400000
+TN-00019,Rahimova,Mohira,Zafar qizi,Ж,1976-01-23,Клиентская поддержка,Руководитель поддержки,2022-03-06,Работает,,,AC4857938,42301762643053,+998 97 699 12 79,mohira.rahimova@example.uz,9300000
+TN-00020,Normatov,Jasur,Tolib o'g'li,М,1988-02-08,Маркетинг,Дизайнер,2022-04-01,Работает,,,AB9687556,30802882720260,+998 97 572 64 21,jasur.normatov@example.uz,17200000
+TN-00021,Valiyeva,Durdona,Ilhom qizi,Ж,1982-04-11,HR,HR бизнес-партнёр,2022-04-22,Работает,,,AC5993212,41104822659978,+998 94 864 90 11,durdona.valiyeva@example.uz,17800000
+TN-00022,Hasanov,Nodir,Abdulla o'g'li,М,2000-03-14,Маркетинг,Дизайнер,2022-05-13,Работает,,,AB8973675,51403002728211,+998 97 869 59 77,nodir.hasanov@example.uz,12600000
+TN-00023,Tursunov,Bekzod,Farhod o'g'li,М,1978-10-11,HR,HR-менеджер,2022-05-17,Работает,,,AC2314594,31110782649266,+998 88 322 99 84,bekzod.tursunov@example.uz,10900000
+TN-00024,Rahimova,Durdona,Baxtiyor qizi,Ж,1987-07-30,Финансы,Казначей,2022-05-19,Работает,,,AB4488887,43007872741326,+998 93 291 98 16,durdona.rahimova@example.uz,12700000
+TN-00025,Begmatov,Bekzod,Xurshid o'g'li,М,1983-10-07,Финансы,Казначей,2022-05-23,Работает,,,AD9738602,30710832654560,+998 33 797 17 88,bekzod.begmatov@example.uz,15800000
+TN-00026,Jo'rayeva,Zilola,Ravshan qizi,Ж,1988-04-18,Финансы,Финансовый аналитик,2022-07-14,Работает,,,AA9192571,41804882612101,+998 95 829 61 38,zilola.jorayeva@example.uz,16300000
+TN-00027,Aliyeva,Yulduz,Zafar qizi,Ж,1986-11-01,Финансы,Главный бухгалтер,2022-07-21,Работает,,,AA3008192,40111862626661,+998 97 748 76 50,yulduz.aliyeva@example.uz,9400000
+TN-00028,Yusupov,Sanjar,Zafar o'g'li,М,1985-07-17,HR,Специалист по кадрам,2022-08-16,Работает,,,AA1622575,31707852637814,+998 93 571 90 62,sanjar.yusupov2@example.uz,8200000
+TN-00029,Saidov,Ulug'bek,Murod o'g'li,М,1982-07-21,Маркетинг,Дизайнер,2022-09-01,Работает,,,AC5413900,32107822824133,+998 93 301 69 38,ulugbek.saidov@example.uz,15900000
+TN-00030,Karimov,Akmal,Sobir o'g'li,М,1996-05-09,Клиентская поддержка,Оператор поддержки,2022-09-12,Работает,,,AC7552102,30905962739362,+998 33 577 83 89,akmal.karimov@example.uz,7100000
+TN-00031,Nazarova,Gulchehra,Zafar qizi,Ж,2002-12-17,Маркетинг,SMM-специалист,2022-10-17,Работает,,,AB1166158,61712022750355,+998 93 146 92 79,gulchehra.nazarova@example.uz,8200000
+TN-00032,Normatova,Dilnoza,Abdulla qizi,Ж,1993-05-17,IT,QA-инженер,2022-10-19,Работает,,,AD9167258,41705932674354,+998 97 161 61 32,dilnoza.normatova@example.uz,12200000
+TN-00033,Haydarov,Doniyor,Tolib o'g'li,М,1996-10-14,Продажи,Старший менеджер по продажам,2022-11-05,Работает,,,AB2090683,31410962633558,+998 93 554 69 22,doniyor.haydarov@example.uz,17700000
+TN-00034,Qodirova,Gulchehra,Ravshan qizi,Ж,1990-04-23,HR,Специалист по кадрам,2022-11-16,Работает,,,AC8047903,42304902715010,+998 95 137 92 72,gulchehra.qodirova@example.uz,8700000
+TN-00035,Haydarov,Temur,Sobir o'g'li,М,1996-12-16,Финансы,Казначей,2023-01-22,Работает,,,AC8146498,31612962815240,+998 99 671 94 14,temur.haydarov@example.uz,15400000
+TN-00036,Jo'rayeva,Gulchehra,Komil qizi,Ж,2002-12-09,Финансы,Финансовый аналитик,2023-02-08,Работает,,,AD5976514,60912022611101,+998 94 279 72 89,gulchehra.jorayeva@example.uz,18000000
+TN-00037,Saidova,Mohira,Hamid qizi,Ж,1983-12-01,HR,HR-менеджер,2023-02-22,Работает,,,AD5101407,40112832675968,+998 99 983 18 92,mohira.saidova@example.uz,15400000
+TN-00038,Jo'rayev,Shoxrux,Sobir o'g'li,М,1983-07-02,IT,DevOps-инженер,2023-03-20,Работает,,,AA1702863,30207832642232,+998 91 568 86 54,shoxrux.jorayev@example.uz,28200000
+TN-00039,Rahimov,Javohir,Akmal o'g'li,М,1993-07-19,Продажи,Старший менеджер по продажам,2023-05-08,Работает,,,AA7400983,31907932661760,+998 93 672 35 74,javohir.rahimov@example.uz,15600000
+TN-00040,Ergashev,Elyor,Sobir o'g'li,М,1993-06-25,Финансы,Бухгалтер,2023-05-27,Работает,,,AB6308337,32506932619828,+998 99 175 16 54,elyor.ergashev@example.uz,17000000
+TN-00041,Sultonova,Munisa,Xurshid qizi,Ж,1976-09-14,HR,HR-менеджер,2023-07-22,Уволен,2026-06-28,Неоднократное нарушение трудовой дисциплины,AB9966630,41409762814376,+998 97 981 74 97,munisa.sultonova@example.uz,10200000
+TN-00042,Hasanova,Zilola,Farhod qizi,Ж,1998-08-31,HR,HR бизнес-партнёр,2023-09-21,Работает,,,AA9320052,43108982715406,+998 95 523 43 36,zilola.hasanova@example.uz,16000000
+TN-00043,Tursunova,Malika,Zafar qizi,Ж,1983-06-29,IT,QA-инженер,2023-10-27,Работает,,,AB4508565,42906832727572,+998 99 109 71 76,malika.tursunova@example.uz,23700000
+TN-00044,Usmonova,Nilufar,Sobir qizi,Ж,1986-08-11,Финансы,Главный бухгалтер,2024-02-07,Уволен,2025-05-10,Сокращение штата,AD8038740,41108862636658,+998 33 479 22 34,nilufar.usmonova2@example.uz,18500000
+TN-00045,Xolmatov,Sherzod,Akmal o'g'li,М,1984-05-20,Продажи,Старший менеджер по продажам,2024-02-24,Работает,,,AC6198079,32005842635703,+998 88 887 11 22,sherzod.xolmatov@example.uz,7900000
+TN-00046,Sobirova,Malika,Baxtiyor qizi,Ж,1998-10-02,Финансы,Казначей,2024-03-29,Работает,,,AC4043912,40210982732747,+998 90 461 87 76,malika.sobirova@example.uz,12200000
+TN-00047,Zokirov,Otabek,Sobir o'g'li,М,1976-10-21,IT,Системный аналитик,2024-04-20,Работает,,,AA1588064,32110762746010,+998 95 436 13 30,otabek.zokirov@example.uz,24800000
+TN-00048,Tursunova,Munisa,Hamid qizi,Ж,1999-08-14,Клиентская поддержка,Руководитель поддержки,2024-05-03,Уволен,2026-07-28,По соглашению сторон (ст. 98 ТК РУз),AC3152477,41408992666445,+998 93 596 10 55,munisa.tursunova@example.uz,11600000
+TN-00049,Xolmatova,Gulchehra,Zafar qizi,Ж,1976-11-07,Финансы,Бухгалтер,2024-07-03,Уволен,2026-06-10,Переход в другую компанию,AB7357193,40711762677880,+998 33 704 58 71,gulchehra.xolmatova@example.uz,21500000
+TN-00050,Valiyeva,Nodira,Ulmas qizi,Ж,2000-10-05,Клиентская поддержка,Старший оператор,2024-07-16,Работает,,,AB9157065,60510002684857,+998 88 397 20 63,nodira.valiyeva@example.uz,7000000
+TN-00051,Haydarov,Mirjalol,Abdulla o'g'li,М,1982-11-18,Продажи,Аккаунт-менеджер,2024-07-28,Работает,,,AA2326783,31811822618348,+998 91 814 73 90,mirjalol.haydarov@example.uz,11300000
+TN-00052,Yusupov,Sanjar,Odil o'g'li,М,1996-04-12,IT,Тимлид,2024-08-12,Уволен,2026-01-07,Переезд в другой город,AB6017607,31204962819401,+998 97 184 18 21,sanjar.yusupov@example.uz,32600000
+TN-00053,Aliyev,Dilshod,Rustam o'g'li,М,1994-01-31,Продажи,Аккаунт-менеджер,2024-09-13,Работает,,,AD6679821,33101942718656,+998 33 625 76 13,dilshod.aliyev@example.uz,13300000
+TN-00054,Usmonov,Elyor,Farhod o'g'li,М,1991-01-19,HR,Рекрутер,2024-10-27,Работает,,,AC5222612,31901912648943,+998 90 302 86 86,elyor.usmonov@example.uz,11300000
+TN-00055,Begmatova,Gulnora,Shavkat qizi,Ж,2002-01-01,IT,DevOps-инженер,2024-11-11,Уволен,2026-06-01,По собственному желанию (ст. 99 ТК РУз),AC2570821,60101022729826,+998 94 429 69 98,gulnora.begmatova2@example.uz,18200000
+TN-00056,Mirzayev,Jasur,Erkin o'g'li,М,1984-09-12,Финансы,Казначей,2024-12-27,Уволен,2026-01-22,Поступление на учёбу,AB2122728,31209842643356,+998 91 994 19 58,jasur.mirzayev@example.uz,14700000
+TN-00057,Mirzayeva,Zarina,Tolib qizi,Ж,2000-09-03,Финансы,Главный бухгалтер,2025-01-22,Работает,,,AA4705543,60309002675844,+998 95 786 81 26,zarina.mirzayeva@example.uz,10500000
+TN-00058,Usmonova,Durdona,Xurshid qizi,Ж,1996-06-20,IT,Backend-разработчик,2025-02-01,Работает,,,AB5342084,42006962650288,+998 99 194 31 78,durdona.usmonova@example.uz,34000000
+TN-00059,Tursunov,Islom,Xurshid o'g'li,М,1996-12-19,IT,Тимлид,2025-02-22,Работает,,,AC3706700,31912962749106,+998 91 576 97 62,islom.tursunov@example.uz,15900000
+TN-00060,Fayzullayeva,Sevara,Ravshan qizi,Ж,1981-02-17,Клиентская поддержка,Старший оператор,2025-04-16,Уволен,2025-08-06,По собственному желанию — уход за ребёнком,AC6102640,41702812755468,+998 93 721 80 29,sevara.fayzullayeva@example.uz,6800000
+TN-00061,Toshmatova,Dilnoza,Akmal qizi,Ж,1995-03-29,Продажи,Менеджер по продажам,2025-07-14,Работает,,,AA3335171,42903952681247,+998 88 374 95 91,dilnoza.toshmatova@example.uz,10500000
+TN-00062,Rasulov,Sardor,Odil o'g'li,М,1984-09-22,IT,Backend-разработчик,2025-08-07,Работает,,,AB7672003,32209842758282,+998 91 924 63 61,sardor.rasulov@example.uz,12100000
+TN-00063,Hasanova,Gulchehra,Rustam qizi,Ж,1985-01-06,Продажи,Аккаунт-менеджер,2025-10-05,Работает,,,AD9606110,40601852827706,+998 94 102 88 20,gulchehra.hasanova@example.uz,7400000
+TN-00064,Qodirova,Nilufar,Komil qizi,Ж,1980-10-05,HR,HR бизнес-партнёр,2025-10-07,Работает,,,AD3484049,40510802729343,+998 95 455 67 41,nilufar.qodirova@example.uz,9200000
+TN-00065,Ergashev,Doniyor,Hamid o'g'li,М,2000-01-28,Маркетинг,Маркетолог,2025-10-28,Работает,,,AA3540890,52801002671190,+998 97 831 96 89,doniyor.ergashev@example.uz,11000000
+TN-00066,Fayzullayev,Dilshod,Erkin o'g'li,М,1996-08-24,IT,QA-инженер,2025-12-07,Работает,,,AC8207994,32408962736774,+998 97 285 19 81,dilshod.fayzullayev@example.uz,34100000
+TN-00067,Begmatova,Gulnora,Rustam qizi,Ж,1982-04-10,IT,QA-инженер,2025-12-18,Работает,,,AA0626104,41004822655362,+998 95 129 64 84,gulnora.begmatova@example.uz,15200000
+TN-00068,Rahimova,Shahnoza,Sobir qizi,Ж,1979-08-08,Маркетинг,SMM-специалист,2025-12-31,Работает,,,AD2389286,40808792829067,+998 91 741 99 68,shahnoza.rahimova@example.uz,19000000
+TN-00069,Saidov,Temur,Alisher o'g'li,М,1999-06-15,HR,HR-менеджер,2026-01-19,Работает,,,AB5566204,31506992655753,+998 95 400 83 68,temur.saidov@example.uz,15100000
+TN-00070,Hasanov,Sherzod,Sobir o'g'li,М,1992-03-04,IT,Frontend-разработчик,2026-02-03,Работает,,,AB0484455,30403922812477,+998 99 620 77 26,sherzod.hasanov@example.uz,25100000
+TN-00071,Sobirov,Rustam,Tolib o'g'li,М,1998-03-04,Клиентская поддержка,Старший оператор,2026-03-31,Работает,,,AB8535601,30403982640883,+998 99 441 80 43,rustam.sobirov@example.uz,8900000
+TN-00072,Abdullayeva,Sevara,Abdulla qizi,Ж,2000-12-20,Продажи,Менеджер по продажам,2026-04-01,Работает,,,AD7984994,62012002823471,+998 90 875 38 91,sevara.abdullayeva@example.uz,7500000
+TN-00073,Sobirova,Dildora,Murod qizi,Ж,1993-11-19,Финансы,Казначей,2026-06-14,Работает,,,AB3078067,41911932616780,+998 95 905 28 39,dildora.sobirova@example.uz,8500000
+TN-00074,Saidov,Dilshod,Tolib o'g'li,М,1993-01-13,HR,Специалист по кадрам,2026-07-14,Работает,,,AD6743569,31301932762087,+998 95 109 14 29,dilshod.saidov@example.uz,15300000
+TN-00075,Usmonova,Kamola,Ilhom qizi,Ж,2002-03-10,Финансы,Финансовый аналитик,2026-07-28,Работает,,,AC1414020,61003022767299,+998 91 128 44 63,kamola.usmonova@example.uz,9100000
+TN-00076,Usmonova,Nilufar,Akmal qizi,Ж,1996-12-28,HR,Специалист по кадрам,2026-08-22,Работает,,,AB6664202,42812962713579,+998 99 863 75 91,nilufar.usmonova@example.uz,7900000
+TN-00077,Hasanov,Aziz,Odil o'g'li,М,1978-09-25,Продажи,Аккаунт-менеджер,2026-09-01,Работает,,,AA4232716,32509782681197,+998 94 411 86 96,aziz.hasanov@example.uz,13300000
+TN-00078,Jo'rayev,Sardor,Farhod o'g'li,М,1979-10-04,IT,QA-инженер,2026-09-12,Работает,,,AC3112092,30410792645191,+998 95 702 18 47,sardor.jorayev@example.uz,20000000
+TN-00079,Valiyev,Dilshod,Baxtiyor o'g'li,М,1990-12-15,Маркетинг,Дизайнер,2026-10-21,Работает,,,AA3187727,31512902820496,+998 91 272 93 18,dilshod.valiyev@example.uz,14100000
+TN-00080,Fayzullayev,Sherzod,Zafar o'g'li,М,1979-08-04,Финансы,Бухгалтер,2026-10-25,Работает,,,AC1271869,30408792768983,+998 95 426 64 88,sherzod.fayzullayev@example.uz,15900000
